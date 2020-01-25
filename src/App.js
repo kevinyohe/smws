@@ -4,7 +4,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      S#!T MY WIFE SAYS
+      <h1>S#!T MY WIFE SAYS</h1>
     </div>
   );
 }
